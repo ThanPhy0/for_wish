@@ -8,11 +8,11 @@
   src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
 }
 
-/* @media (max-width : 720){
+@media (max-width : 720){
   .container{
     width: 60%;
   }
-} */
+}
 
 html {
     height: 100%;
